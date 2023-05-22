@@ -1,0 +1,97 @@
+[
+  {
+    "src": "https://alexsokol.ru/data/stack/webstorm.jpg",
+    "name": "WebStorm",
+    "link": "https://www.jetbrains.com/webstorm/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/react.png",
+    "name": "React",
+    "link": "https://reactjs.org/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/github.png",
+    "name": "GitHub",
+    "link": "https://github.com/assassin0210"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/tailwind.jpg",
+    "name": "Tailwind",
+    "link": "https://tailwindcss.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/redux.jpeg",
+    "name": "Redux",
+    "link": "https://redux-toolkit.js.org/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/ts.png",
+    "name": "TypeScript",
+    "link": "https://redux-toolkit.js.org/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/html.png",
+    "name": "HTML5",
+    "link": "https://html.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/reatom.jpg",
+    "name": "Reatom",
+    "link": "https://reatom.js.org/#/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/hook-form.jpg",
+    "name": "Hook Form",
+    "link": "https://react-hook-form.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/next.jpg",
+    "name": "NextJs",
+    "link": ""
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/styled.jpg",
+    "name": "Styled Components",
+    "link": "https://styled-components.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/fontawesome.jpg",
+    "name": "Font Awesome",
+    "link": "https://fontawesome.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/bootstrap.png",
+    "name": "Bootstrap",
+    "link": "https://getbootstrap.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/antdesign.png",
+    "name": "Ant Design",
+    "link": "https://ant.design/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/npm.png",
+    "name": "NPM",
+    "link": "https://www.npmjs.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/jses6.jpg",
+    "name": "JavaScript ES6",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/sass.png",
+    "name": "Sass",
+    "link": "https://sass-lang.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/router.jpg",
+    "name": "React Router",
+    "link": "https://reactrouter.com/"
+  },
+  {
+    "src": "https://alexsokol.ru/data/stack/materialui.png",
+    "name": "Material ui",
+    "link": "https://mui.com/"
+  }
+]
